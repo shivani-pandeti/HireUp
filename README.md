@@ -1,4 +1,4 @@
-# 💼🚀 HireUp  
+# 💼 HireUp  
 ### A Freelancing Platform for College Students
 
 ## 📌 Overview
